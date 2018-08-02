@@ -1,3 +1,6 @@
-// $(function(){
-//     $('img').hide(1000).show(1000);
-// });
+// preloader
+
+$(window).on('load',function(){
+    $('#status').fadeout();
+    $('#preloader').fadeout();
+})
