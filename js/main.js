@@ -1,6 +1,8 @@
 // preloader
-
+$(function() {
+    alert( 'JavaScript Loaded!' );
+});
 $(window).on('load',function(){
-    $('#status').fadeout();
-    $('#preloader').fadeout();
+    jquery('#status').fadeout();
+    jquery('#preloader').fadeout();
 })
