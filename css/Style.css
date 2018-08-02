@@ -18,15 +18,15 @@ MountbattenPink : #9e829b */
 }
 
 #status{
-    background-image: url('../img/preloader/Double\ Ring-1s-200px.gif');
+    background-image: url('../img/preloader/Double\ Ring-1s-100px.gif');
     background-repeat: no-repeat;
    width: 200px;
    height: 200px;
    position: absolute;
    top: 50%;
    left: 50%;
-   margin-left: -100px;
-   margin-top: -100px;
+   margin-left: -50px;
+   margin-top: -50px;
 }
 /* sample syyle */
 #z1{
